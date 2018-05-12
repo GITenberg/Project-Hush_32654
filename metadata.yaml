@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35965
     wikipedia: https://en.wikipedia.org/wiki/William_Tenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32654#Project-Hush
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-06-02'
 gutenberg_type: Text
