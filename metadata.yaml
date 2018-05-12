@@ -1,0 +1,38 @@
+_repo: Project-Hush_32654
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+covers:
+- cover_type: archival
+  image_path: 32654-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tenn, William
+    alias: Klass, Philip
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '35965'
+    url: http://www.gutenberg.org/2009/agents/35965
+    wikipedia: https://en.wikipedia.org/wiki/William_Tenn
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Moon -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Project Hush
+url: http://www.gutenberg.org/ebooks/32654
